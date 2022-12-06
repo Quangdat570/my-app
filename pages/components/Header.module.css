@@ -1,0 +1,5 @@
+.flex {
+    display: flex;
+    font-size: 28px;
+    justify-content: space-around;
+}
