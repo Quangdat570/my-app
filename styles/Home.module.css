@@ -11,6 +11,15 @@
   justify-content: center;
   align-items: center;
 }
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.flexcolum {
+  display: flex;
+  flex-direction: column;
+}
 
 .footer {
   display: flex;
